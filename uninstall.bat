@@ -1,0 +1,1 @@
+call start_on_startup_unreg.bat

@@ -1,0 +1,9 @@
+# windows 下开机服务自启动工具(请打开各个文件查看根据需求修改相应文件路径)
+* CMakeLists.txt 编译文件
+* install.bat 自启动安装脚本
+* main.cpp 打包exe的源文件
+* start_chrome.vbs 自动全屏chrome并默认打印启动工具
+* start_main.vbs 后台启动服务工具
+* start_on_startup_reg.bat 注册开机启动脚本
+* start_on_startup_unreg.bat 取消注册开机启动脚本
+* uninstall.bat 卸载开机自启动安装脚本
